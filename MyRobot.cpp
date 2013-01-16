@@ -5,6 +5,7 @@
  * Simple Updates: Add your name below!
  * Dan
  * Gabby
+ * Celina
  */ 
 class RobotDemo : public SimpleRobot
 {
