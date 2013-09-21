@@ -8,6 +8,7 @@
  * Celina
  * Laurence
  * Ken
+ * Jack
  */ 
 class RobotDemo : public SimpleRobot
 {
