@@ -11,3 +11,9 @@
 *.lai
 *.la
 *.a
+
+# Everything under PPC32gnu
+PPC32gnu
+
+# GVIM backup file
+.gitignore~
